@@ -34,16 +34,16 @@ But the spirit of the finger-protocol is that the output should be **human-legib
 
 ## Table of Contents
 
-* [Clients (Terminal)]()
-* [Clients (GUI)]()
-* [Clients (Mobile Android)]()
-* [Clients (Mobile iOS)]()
-* [Clients (Mobile PWA)]()
-* [Servers]()
-* [Web Proxies]()
-* [Programming]()
-* [Finger Specifications]()
-* [Articles]()
+* [Clients (Terminal)](#clients-terminal)
+* [Clients (GUI)](#clients-gui)
+* [Clients (Mobile Android)](#clients-android)
+* [Clients (Mobile iOS)](#clients-ios)
+* [Clients (Mobile PWA)](#clients-pwa)
+* [Servers](#servers)
+* [Web Proxies](#web-proxies)
+* [Programming](#programming)
+* [Specifications](#specifications)
+* [Articles](#articles)
 
 ## Clients (Terminal)
 
@@ -76,7 +76,7 @@ But the spirit of the finger-protocol is that the output should be **human-legib
 
 * [go-finger](https://github.com/reiver/go-finger) —  implements the finger protocol, for the Go programming language; can be used to create both clients & servers
 
-## Finger Specifications
+## Specifications
 
 * [IETF RFC-742](https://datatracker.ietf.org/doc/html/rfc742) — (published **1977**) — the finger-protocol existed a was evolving **at least 6 years before** RFC-742 was published; when RFC-742 was published in 1977, RFC-742's purpose was to attempt to describe the protocol that was implemented first by the `finger` program, and then by the `name` program, as well as 3 running finger-sites that existed at the time — `SAIL` (SU-AI), `SRI` (SRI-(KA/KL)), and `ITS` (MIT-(AI/ML/MC/DMS)); i.e., RFC-742 was _not_ attempting to create a new protocol, but instead was an attempting to describe the protocol that already existed, was already implemented, and was already in use by client software, by server software, and by people; i.e., the finger-protocol was created by the person(s) who wrote the software
 * [IETF RFC-1288](https://datatracker.ietf.org/doc/html/rfc1288) — (published **1991**) — RFC-742, which was published in 1977, had some parts of it that were considered to be ambiguous by some; RFC-1288, published in 1991 (i.e., **14 years later** after RFC-742 was published, and **at least 20 years after** the finger-protocol existed and was evolving), was an attempt to remove some of the ambiguity of RFC-742, to make it easier for both people who would implement a finger-protocol client or server, and to provide some guidance; **however** RFC-1288 added restrictions to the finger-protocol that did NOT exist in RFC-742; in 1991 some of these restrictions may have seemed reasonable, however today (in 2022) some of the restrictions probably do not make as much sense (and should probably be reconsidered)
