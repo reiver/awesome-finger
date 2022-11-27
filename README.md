@@ -3,7 +3,8 @@ A collection of awesome things regarding the **finger protocol** ecosystem.
 
 ## What is Finger
 
-**Finger** is one of the early Internet-based **social networks**, with its origins in the early 1970s.
+**Finger** is an early Internet-based **social networks**, with its origins in the early 1970s.
+Like with a lot of things from the early Internet — **finger** is **decentralized**.
 
 **finger**'ing some could return:
 
