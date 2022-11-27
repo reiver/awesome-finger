@@ -30,7 +30,7 @@ finger cikrempeaux@changelog.ca
 ```
 
 A finger-protocol server could return anything it wanted.
-But the spirit of the finger-protocol is that the output should be **human-legible**, given what technologies are available at the time.
+But the spirit of the finger-protocol is that the output should be **human-legible** first, given what technologies are available at the time (and _programmer-legible_ & _machine-legible_ second).
 
 ## Clients (Terminal)
 
