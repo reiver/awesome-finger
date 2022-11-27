@@ -34,9 +34,10 @@ But the spirit of the finger-protocol is that the output should be **human-legib
 
 ## Clients (Terminal)
 
-* [finger](https://github.com/reiver/finger) —  a modern finger-protocol client
 * [BSD finger](https://wiki.linuxfoundation.org/networking/netkit) — (last updated July 22nd, 2000) one of the historic finger-protocol clients 
 * [GNU finger](https://directory.fsf.org/wiki/Finger) — (last updated October 15th, 1992) one of the historic finger-protocol clients
+* [finger](https://github.com/reiver/finger) —  a modern finger-protocol client
+* [lynx](https://lynx.invisible-island.net/) — a terminal text-based web browser that also supports the finger-protocol
 
 ## Clients (GUI)
 
