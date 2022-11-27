@@ -32,6 +32,19 @@ finger cikrempeaux@changelog.ca
 A finger-protocol server could return anything it wanted.
 But the spirit of the finger-protocol is that the output should be **human-legible** first, given what technologies are available at the time (and _programmer-legible_ & _machine-legible_ second).
 
+## Table of Contents
+
+* [Clients (Terminal)]()
+* [Clients (GUI)]()
+* [Clients (Mobile Android)]()
+* [Clients (Mobile iOS)]()
+* [Clients (Mobile PWA)]()
+* [Servers]()
+* [Web Proxies]()
+* [Programming]()
+* [Finger Specifications]()
+* [Articles]()
+
 ## Clients (Terminal)
 
 * [BSD finger](https://wiki.linuxfoundation.org/networking/netkit) — (last updated July 22nd, 2000) one of the historic finger-protocol clients 
@@ -50,10 +63,6 @@ But the spirit of the finger-protocol is that the output should be **human-legib
 
 ## Clients (Mobile PWA)
 
-## Programming
-
-* [go-finger](https://github.com/reiver/go-finger) —  implements the finger protocol, for the Go programming language; can be used to create both clients & servers
-
 ## Servers
 
 * [finger.farm](https://github.com/jonroig/finger.farm) — a multi-user finger-protocol server
@@ -62,6 +71,10 @@ But the spirit of the finger-protocol is that the output should be **human-legib
 ## Web Proxies
 
 * [the finger api](https://the-finger-api.balbona.me/) — proxies finger-protocol client requests, and returns the response from the finger-protocol server as JSON
+
+## Programming
+
+* [go-finger](https://github.com/reiver/go-finger) —  implements the finger protocol, for the Go programming language; can be used to create both clients & servers
 
 ## Finger Specifications
 
