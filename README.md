@@ -36,9 +36,9 @@ But the spirit of the finger-protocol is that the output should be **human-legib
 
 * [Clients (Terminal)](#clients-terminal)
 * [Clients (GUI)](#clients-gui)
-* [Clients (Mobile Android)](#clients-android)
-* [Clients (Mobile iOS)](#clients-ios)
-* [Clients (Mobile PWA)](#clients-pwa)
+* [Clients (Mobile Android)](#clients-mobile-android)
+* [Clients (Mobile iOS)](#clients-mobile-ios)
+* [Clients (Mobile PWA)](#clients-mobile-pwa)
 * [Servers](#servers)
 * [Web Proxies](#web-proxies)
 * [Programming](#programming)
