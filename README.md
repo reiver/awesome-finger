@@ -94,5 +94,6 @@ echo '/W cikrempeaux' | nc changelog.ca 79
 
 ## Articles
 
+* [fingerverse](https://github.com/reiver/fingerverse/) — a list of many finger-sites (finger-holes?), which is useful anyone who wants to try out or get started with finger.
 * [History of the Finger Protocol](http://www.rajivshah.com/Case_Studies/Finger/Finger.htm#_Toc484593872) — (published **2000**) — a history of the **finger** and its usage from the early 1970s to the year 2000
 * [The "Only" Coke Machine on the Internet](https://www.cs.cmu.edu/~coke/history_long.txt) — a story, from the early 1990s, about a pop vending machine whose status could be queried via finger
