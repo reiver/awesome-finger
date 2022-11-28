@@ -32,6 +32,10 @@ finger cikrempeaux@changelog.ca
 
 A finger-protocol server could return anything it wanted.
 But the spirit of the finger-protocol is that the output should be **human-legible** first, given what technologies are available at the time (and _programmer-legible_ & _machine-legible_ second if at all).
+```
+echo '/W cikrempeaux' | nc changelog.ca 79
+```
+
 
 ## Table of Contents
 
