@@ -56,7 +56,6 @@ echo '/W cikrempeaux' | nc changelog.ca 79
 ## Clients (Terminal)
 
 * [BSD finger](https://wiki.linuxfoundation.org/networking/netkit) — (last updated July 22nd, 2000) one of the historic finger-protocol clients 
-* [elinks]() — a terminal text-based web browser that also supports the finger-protocol
 * [finger](https://github.com/reiver/finger) —  a modern finger-protocol client
 * [GNU finger](https://directory.fsf.org/wiki/Finger) — (last updated October 15th, 1992) one of the historic finger-protocol clients
 * [lynx](https://lynx.invisible-island.net/) — a terminal text-based web browser that also supports the finger-protocol
