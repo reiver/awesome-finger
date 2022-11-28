@@ -15,7 +15,7 @@ Like with a lot of things from the early Internet — **finger** is **decentrali
 * a journal,
 * articles,
 * jokes,
-* ASCII art,
+* (so called) ASCII art (which could contain non-ASCII characters),
 * and more.
 
 Historically people and even machines were identified by **user** names at a **host** name.
@@ -49,8 +49,9 @@ But the spirit of the finger-protocol is that the output should be **human-legib
 ## Clients (Terminal)
 
 * [BSD finger](https://wiki.linuxfoundation.org/networking/netkit) — (last updated July 22nd, 2000) one of the historic finger-protocol clients 
-* [GNU finger](https://directory.fsf.org/wiki/Finger) — (last updated October 15th, 1992) one of the historic finger-protocol clients
+* [elinks]() — a terminal text-based web browser that also supports the finger-protocol
 * [finger](https://github.com/reiver/finger) —  a modern finger-protocol client
+* [GNU finger](https://directory.fsf.org/wiki/Finger) — (last updated October 15th, 1992) one of the historic finger-protocol clients
 * [lynx](https://lynx.invisible-island.net/) — a terminal text-based web browser that also supports the finger-protocol
 
 ## Clients (GUI)
