@@ -84,4 +84,5 @@ But the spirit of the finger-protocol is that the output should be **human-legib
 
 ## Articles
 
-[History of the Finger Protocol](http://www.rajivshah.com/Case_Studies/Finger/Finger.htm#_Toc484593872) — (published **2000**) — a history of the **finger** and its usage from the early 1970s to the year 2000
+* [History of the Finger Protocol](http://www.rajivshah.com/Case_Studies/Finger/Finger.htm#_Toc484593872) — (published **2000**) — a history of the **finger** and its usage from the early 1970s to the year 2000
+* [The "Only" Coke Machine on the Internet](https://www.cs.cmu.edu/~coke/history_long.txt) — a story, from the early 1990s, about a pop vender machine whose status could be queried via finger
