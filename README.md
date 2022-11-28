@@ -85,7 +85,7 @@ echo '/W cikrempeaux' | nc changelog.ca 79
 
 ## Programming
 
-* [go-finger](https://github.com/reiver/go-finger) —  implements the finger protocol, for the Go programming language; can be used to create both clients & servers
+* [go-finger](https://github.com/reiver/go-finger) —  implements the finger protocol, for the Go programming language, that can be used to create both clients & servers
 
 ## Specifications
 
