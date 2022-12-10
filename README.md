@@ -10,7 +10,7 @@ Like with a lot of things from the early Internet — **finger** is **decentrali
 
 * personal information,
 * contact information,
-* referencs to that person's presence on other parts of the Internet,
+* references to that person's presence on other parts of the Internet,
 * a short biography,
 * a journal,
 * articles,
