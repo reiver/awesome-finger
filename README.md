@@ -16,6 +16,7 @@ Like with a lot of things from the early Internet — **finger** is **decentrali
 * articles,
 * jokes,
 * (so called) ASCII art (which could contain non-ASCII characters),
+* animations,
 * and more.
 
 Historically people and even machines were identified by **user** names at a **host** name.
